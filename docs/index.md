@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
+# Eleanor Monk
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,15 +16,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected December, 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
