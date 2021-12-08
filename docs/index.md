@@ -33,7 +33,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `October 2021 - December 2021`
-__CHOICE Humanitarian__, Salt Lake, UT
+__CHOICE Humanitarian__, Salt Lake City, UT
 
 - Utilized data to create a research proposal for hoop houses in the Former Bennet Freeze Area
 - Created plan to gather data for and analyze results of hoop houses in the Former Bennet Freeze Area
